@@ -1,6 +1,6 @@
 # How To Use Google SQL In Crawlbase
 
-We invite you to explore our [blog](https://crawlbase.com/blog/how-to-use-google-sql-in-crawlbase/) for more details.
+We invite you to explore our [blog](https://crawlbase.com/blog/how-to-use-google-sql-in-crawlbase/?utm_source=github&utm_medium=referral&utm_campaign=scraperhub&ref=gh_scraperhub) for more details.
 
 ## Setting Up Your Coding Environment
 
@@ -22,6 +22,9 @@ Before running the examples, make sure to replace every instance of `<Normal req
 ```bash
 python main.py
 ```
+
+🛡 Disclaimer
+This repository is for educational purposes only. Please make sure you comply with the Terms of Service of any website you scrape. Use this responsibly and only where permitted.
 
 ---
 
